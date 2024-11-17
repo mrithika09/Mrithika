@@ -1,0 +1,1 @@
+The Iris dataset is one of the most well-known and commonly used datasets in the field of machine learning and statistics. In this article, we will explore the Iris dataset in deep and learn about its uses and applications.
